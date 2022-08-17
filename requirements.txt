@@ -1,4 +1,4 @@
-jupyter==1.0.0
-Markdown==3.4.1
-matplotlib==3.5.3
-numpy==1.23.2
+jupyter
+numpy
+Markdown
+matplotlib
