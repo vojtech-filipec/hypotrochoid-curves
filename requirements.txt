@@ -1,0 +1,11 @@
+Package              Version
+-------------------- -----------
+jupyter              1.0.0
+ipykernel            6.15.1
+ipywidgets           7.7.1
+Markdown             3.4.1
+MarkupSafe           2.1.1
+matplotlib           3.5.3
+numpy                1.23.2
+pip                  22.2.2
+voila                0.3.6
