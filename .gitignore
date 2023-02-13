@@ -1,3 +1,5 @@
 *.png
 *.pdf
-
+*.lnk
+setup-and-links.md
+.ipynb_checkpoints/

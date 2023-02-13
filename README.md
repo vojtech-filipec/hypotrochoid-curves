@@ -1,24 +1,16 @@
 # hypotrochoid-curves
 
-## setup 
-workon curves   # in .virtualenvs/curves
-cd D-private-python/inspiro-cykloidy
-pip install jupyter
-ipython kernel install --user --name=jupyter-env-vojta
-jupyter notebook --no-browser
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?labpath=voila%2Frender%2FCurves.ipynb)
 
 
+repo: https://github.com/vojtech-filipec/hypotrochoid-curves
+interactive HTML: https://vojtech-filipec.github.io/hypotrochoid-curves/Curves.html (I do not see the radiobuttons or the "show the curve" button)
+voila in Binder (also see the badge above): https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?labpath=voila%2Frender%2FCurves.ipynb
 
-CO DALE:
-- lokalne jsem ukladal, to chci i interaktivne
-- uvodni obrazek
 
-BINDER:
-- Pushing mi nefunguje, at uz je to s voila, nebo bez. Pokazde dostanu:
-Error during build: UnixHTTPConnectionPool(host='localhost', port=None): 
-
-HEROKU:
-vyzaduje Pythn 3.10
+## TO-DO's
+- allow to save the image
+- motivational example
 
 
 ## resources:
