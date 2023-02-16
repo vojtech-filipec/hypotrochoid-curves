@@ -1,6 +1,6 @@
 # hypotrochoid-curves
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?labpath=voila%2Frender%2FCurves.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?urlpath=voila%2Frender%2FCurves.ipynb)
 
 
 - repo: https://github.com/vojtech-filipec/hypotrochoid-curves
