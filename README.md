@@ -1,7 +1,7 @@
 # Hypotrochoid Curves:
-intro = video from PyCon SK 2024: [link to YouTube](https://www.youtube.com/watch?v=zR2q_wvg4ro&list=PLeK_HepiMJKIqABBZxlkIWXH-Iop1BuOm&index=31&t=9s)
+Intro  = video from PyCon SK 2024: [link to YouTube](https://www.youtube.com/watch?v=zR2q_wvg4ro&list=PLeK_HepiMJKIqABBZxlkIWXH-Iop1BuOm&index=31&t=9s)
 
-implementation in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?urlpath=voila%2Frender%2FCurves.ipynb)
+To see the result, you can [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?urlpath=voila%2Frender%2FCurves.ipynb).
 
 - repo: https://github.com/vojtech-filipec/hypotrochoid-curves
 - voila in Binder (also see the badge above): https://mybinder.org/v2/gh/vojtech-filipec/hypotrochoid-curves/main?urlpath=voila%2Frender%2FCurves.ipynb
